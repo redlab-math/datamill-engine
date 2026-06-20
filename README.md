@@ -1,4 +1,4 @@
-# datamill-engine
+# Datamill Engine
 
 ## Purpose
 
@@ -45,7 +45,7 @@ java -version
 ## Getting the project
 
 ```
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/redlab-math/datamill-engine)
 cd datamill-engine
 ```
 
