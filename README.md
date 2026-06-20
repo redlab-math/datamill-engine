@@ -45,7 +45,7 @@ java -version
 ## Getting the project
 
 ```
-git clone [<repository-url>](https://github.com/redlab-math/datamill-engine)
+git clone https://github.com/redlab-math/datamill-engine
 cd datamill-engine
 ```
 
